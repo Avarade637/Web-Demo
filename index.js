@@ -4,3 +4,6 @@ window.alert("Nice :) Here you are...");
 window.alert("Uhh....");
 window.alert("Running out of stuff to say...");
 window.alert("Alright revenge time ;)");
+
+// FUN
+window.location.href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";
